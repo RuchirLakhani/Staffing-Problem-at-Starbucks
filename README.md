@@ -35,5 +35,5 @@ Linear Programming Formulation: A mathematical formulation of the linear program
 Data Analysis and Results: An analysis of the input data, optimization results, and performance evaluation of the staffing schedule.
 
 **Credits**
-The Staffing Optimization project is developed by **Ruchir Lakhani, Carson Goodman, Rounak Amre and Jacob Warchola**. Acknowledgments and credits to any external libraries, frameworks, or resources used in the project can be mentioned here.
+The Staffing Optimization project is developed by **Ruchir Lakhani, Carson Goodman, Rounak Amre and Jacob Warchola**.
 
